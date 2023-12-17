@@ -1,0 +1,17 @@
+
+
+<img 
+  (click)="greetUser()"
+  src="https://github.com/jadcy2k.png" 
+/>
+
+
+<!--// Uso de directivas @if y @else (ng-if, ng-else) //-->
+
+@if (isLogged) {
+  <p>Muy buenas, {{userName}}</p>
+}
+@else {
+  <p>Inicia sesión</p>
+}
+

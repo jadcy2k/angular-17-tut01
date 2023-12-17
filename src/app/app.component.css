@@ -1,0 +1,13 @@
+h1,h3 {
+  margin: 0.5rem auto;
+  width: fit-content;
+}
+section {
+  margin: 1rem auto;
+  padding: 1rem;
+  display: flex;
+  width: 400px;
+  /* Gradient border: */
+  border: 10px solid transparent;
+  border-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%) 1;
+}

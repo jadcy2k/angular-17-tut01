@@ -1,0 +1,10 @@
+img {
+  border-radius: 500px;
+  width: 100px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+img:hover {
+  /* filter: blur(3.5px); */
+  filter: saturate(3);
+}
