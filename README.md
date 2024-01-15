@@ -5,7 +5,7 @@
 ## INSTALACIÓN
 
 * Hay que actualizar el @angular/cli a la versión 17.xx
-* `ng start NUEVA_CARPETA` (nos pregunta por el motor de CSS y si queremos habiliatar SSR -server side rendering-)
+* `ng new NUEVA_CARPETA` (nos pregunta por el motor de CSS y si queremos habiliatar SSR -server side rendering-)
 * Se arranca en localhost:4200 con: `ng serve --open`
 
 
